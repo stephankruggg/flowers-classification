@@ -47,8 +47,6 @@ Group-taken images resulted in 70% accuracy, likely due to differences in lighti
 - The results are promising, although performance may decline in scenarios with hundreds of classes or highly diverse images.
 
 ## 🔗 Useful Links
-- 🖼️ Presentation: Google Slides
-- 🎥 Video: [link to be added]
 - 🌐 Datasets:
   1. [Flower Recognition Dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)
   2. [Flowers Dataset](https://www.kaggle.com/datasets/l3llff/flowers/data)
